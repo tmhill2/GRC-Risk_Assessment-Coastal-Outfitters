@@ -68,6 +68,7 @@ Recommended controls included:
 
 ## Project Files
 
-- Assessment_Report.pdf
-- Executive_Summary.pdf
-- Risk_Register.xlsx
+- [Risk Register](./Coastal_Outfitters_Risk_Register.xlsx)
+- [Assessment Report](./Coastal_Outfitters_Assessment_Report.pdf)
+- [Executive Summary](./Coastal_Outfitters_Executive_Summary.pdf)
+
