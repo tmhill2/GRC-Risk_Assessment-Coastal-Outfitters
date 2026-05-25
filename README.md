@@ -49,7 +49,7 @@ Risk Levels:
 
 ## Risk Register Preview
 
-![Risk Register](./screenshots/risk-register-preview.png)
+![Risk Register](./screenshot/risk-register-preview.png)
 
 ---
 
