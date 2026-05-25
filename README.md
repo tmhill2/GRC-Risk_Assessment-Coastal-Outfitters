@@ -47,6 +47,12 @@ Risk Levels:
 
 ---
 
+## Risk Register Preview
+
+![Risk Register](./screenshots/risk-register-preview.png)
+
+---
+
 ## Key Findings
 
 Critical risks identified:
